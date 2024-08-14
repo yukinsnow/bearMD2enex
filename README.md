@@ -26,11 +26,20 @@ This conversion script is designed to help you transfer Bear notes to other note
 
 ## Example Images
 
-![Bear App Screenshot](assets/Bear.png)
-*Bear App Screenshot*
+Here are some example images:
 
-![Evernote Screenshot](assets/Evernote.png)
-*Evernote Screenshot*
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="text-align: center; padding-right: 20px;">
+      <img src="assets/Bear.png" alt="Bear App Screenshot" height="200" style="display: block; margin: 0 auto;"/>
+      <p><em>Bear App Screenshot</em></p>
+    </td>
+    <td style="text-align: center; padding-left: 20px;">
+      <img src="assets/Evernote.png" alt="Evernote Screenshot" height="200" style="display: block; margin: 0 auto;"/>
+      <p><em>Evernote Screenshot</em></p>
+    </td>
+  </tr>
+</table>
 
 ## Enjoy!
 
