@@ -24,6 +24,14 @@ This conversion script is designed to help you transfer Bear notes to other note
 4. **Import to Evernote**:
    - Import the `output.enex` file into Evernote.
 
+## Example Images
+
+![Bear App Screenshot](assets/Bear.png)
+*Bear App Screenshot*
+
+![Evernote Screenshot](assets/Evernote.png)
+*Evernote Screenshot*
+
 ## Enjoy!
 
 Have FUN transferring your notes!
